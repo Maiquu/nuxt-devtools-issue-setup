@@ -5,6 +5,7 @@
 ### Source file
 
 ```vue
+<!-- app.vue -->
 <script setup lang="ts">
 import { ref, version as vueVersion } from 'vue'
 import { version as EpVersion } from 'element-plus'
